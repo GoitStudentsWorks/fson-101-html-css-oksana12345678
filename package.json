@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/YachtJet-/",
+    "build": "vite build --base=/fson-101-html-css-oksana12345678/",
     "preview": "vite preview"
   },
   "devDependencies": {
